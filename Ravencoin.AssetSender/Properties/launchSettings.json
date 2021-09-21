@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ravencoin.AssetSender": {
+      "commandName": "Project",
+      "commandLineArgs": "8534689b539ff705b32f9551d5ada078328cbcb59ab31323bc8c7a433e1d3c4c"
+    }
+  }
+}
